@@ -1,6 +1,8 @@
 # sudofox/backyard-hatena-podcast-archive
 
-This is an archive of episodes of the Backyard Hatena podcast, including transcripts for each. I'll be paying to have them machine-transcribed.
+<div align="center"><img style="max-width: 500px;" src="logo.png"></div>
+
+This is an archive of episodes of the Backyard Hatena podcast, including transcripts for each. It looks like I might end up paying to have them machine-transcribed. Don't really have the cash for that atm though.
 
 Once that's done, I would greatly appreciate anyone who wishes to correct the transcriptions including accurate timestamps and speaker names.
 
